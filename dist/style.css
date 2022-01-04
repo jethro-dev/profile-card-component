@@ -1,0 +1,8 @@
+:root {
+  --lime: green;
+}
+
+body {
+  background-color: var(--lime);
+}
+/*# sourceMappingURL=style.css.map */
