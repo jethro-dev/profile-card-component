@@ -20,6 +20,9 @@ module.exports = {
       backgroundImage: {
         "main-bg": "url('/public/images/bg-pattern-bottom.svg')",
       },
+      inset: {
+        right: "50%",
+      },
     },
   },
   plugins: [],
